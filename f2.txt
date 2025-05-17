@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 rafiyakowsar
 reena kowsar
+=======
+hiii helllo 
+good morning
+>>>>>>> 7de9a03 (f2.txt added)
